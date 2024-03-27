@@ -1,16 +1,63 @@
-### Hi there 👋
+  <h2>Diogo Mascarenhas 👨‍💻</h2>
 
-<!--
-**diogomasc/diogomasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>🔗 Sobre mim:</h3>
 
-Here are some ideas to get you started:
+   <div>
+     <ul>
+      <li>Acadêmico de <strong>Sistemas de Informação</strong> pelo Instituto Federal de Educação da Bahia (IFBA).</li>
+      <li>Apaixonado por tecnologias e animais (principalmente os marinhos 🐟🫧).</li>
+      <li>Interessado na área de <strong>banco de dados relacionais</strong>, arquitetura de software, otimização de processos e desenvolvimento em geral com <strong>POO</strong>, no qual aprendi os fundamentos com Java e me apaixonei.</li>
+      <li>🖥️ <strong>Atualmente estudando:</strong> TypeScript, React e ReactNative com foco em desenvolvimento mobile cross platform. Além de Git. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" height="25"/>.</li>
+    </ul>
+  </div>
+     
+  <h2>🖥️ Conhemento em:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>Linguagens</h3>
+  <div style="display: inline;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" height="35"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" height="35"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" height="35"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" height="35"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35" height="35"/>  
+  </div>
+  
+  <h3>Bibliotecas</h3>
+  
+  <div style="display: inline;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" height="35"/> 
+  </div>
+
+  <h3>SGBD</h3>
+  
+  <div style="display: inline;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="35" height="35"/>
+  </div>
+  
+  <h3>Modelagem de Sistemas</h3>
+  
+  <div style="display: inline;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="35" height="35"/>      
+  </div>
+
+
+
+
+
+
+  
+
+
+  
+ 
+  
+          
+          
+          
+          
+          
+          
+
+
+

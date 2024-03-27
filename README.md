@@ -7,7 +7,7 @@
       <li>Acadêmico de <strong>Sistemas de Informação</strong> pelo Instituto Federal de Educação da Bahia (IFBA).</li>
       <li>Apaixonado por tecnologias e animais (principalmente os marinhos 🐟🫧).</li>
       <li>Interessado na área de <strong>banco de dados relacionais</strong>, arquitetura de software, otimização de processos e desenvolvimento em geral com <strong>POO</strong>, no qual aprendi os fundamentos com Java e me apaixonei.</li>
-      <li>🖥️ <strong>Atualmente estudando:</strong> TypeScript, React e ReactNative com foco em desenvolvimento mobile cross platform. Além de Git. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" height="25"/>.</li>
+      <li>🖥️ <strong>Atualmente estudando:</strong> TypeScript, React e ReactNative com foco em desenvolvimento mobile cross platform. Além de Git. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20"/>.</li>
     </ul>
   </div>
      

@@ -6,7 +6,7 @@
 Acadêmico de **Sistemas de Informação** pelo Instituto Federal de Educação da Bahia (IFBA).
 Interessado em trabalhar com **banco de dados relacionais**, otimização de processos e desenvolvimento de software em geral com **POO**.
 
-### Estudando
+## Estudando
 
 - TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="20" height="20"/>, React e ReactNative <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20"/> para desenvolvimento mobile cross platform.
 - Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20"/> para controle de versão.

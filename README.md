@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Diogo%20Mascarenhas-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogomasc/)](https://www.linkedin.com/in/diogomasc/) 
 [![Gmail Badge](https://img.shields.io/badge/-diogomascarenhas0574@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogomascarenhas0574@gmail.com)](mailto:diogomascarenhas0574@gmail.com)
 
-Acadêmico de **Sistemas de Informação** pelo Instituto Federal de Educação da Bahia (IFBA) e residente em software pela CEPEDI, no programa Restic36 na trilha de desenvolvimento mobile.
+Acadêmico de **Sistemas de Informação** pelo Instituto Federal de Educação da Bahia (IFBA) e residente em software pela CEPEDI, no programa ResTIC36 na trilha de desenvolvimento mobile.
 Interessado em trabalhar com **banco de dados relacionais**, otimização de processos e desenvolvimento de software em geral com **POO**.
 
 ## Estudando

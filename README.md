@@ -14,60 +14,69 @@
   <a href="https://www.instagram.com/_dmasc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-## Áreas de Interesse
+## 🔍 Áreas de Interesse
 
-- Banco de dados relacionais
-- Otimização de processos em modelagem de dados
-- Arquitetura de software
-- Desenvolvimento web e mobile
+- 💾 Banco de dados relacionais
+- 🔧 Otimização de processos em modelagem de dados
+- 🏗️ Arquitetura de software
+- 🌐 Desenvolvimento web e mobile
 
-## 💻 Habilidades
-- **Linguagens de Programação:**  
-  <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="C" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/java/original.svg" alt="Java" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="HTML" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="CSS" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="PHP" width="40" height="40"/>
+## 👨‍💻 Habilidades
 
-- **Frameworks e Bibliotecas:**  
-  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" alt="Bootstrap" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/jquery/original.svg" alt="jQuery" width="40" height="40"/>
+###  Linguagens de Programação
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</div>
 
-- **Banco de Dados:**  
-  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+### Frameworks e Bibliotecas
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+</div>
 
-- **Ferramentas de Colaboração:**  
-  <img src="https://devicon-website.vercel.app/api/slack/original.svg" alt="Slack" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/trello/plain.svg" alt="Trello" width="40" height="40"/>
+### Banco de Dados
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
 
-- **Ferramentas:**  
-  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="VSCode" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/figma/original.svg" alt="Figma" width="40" height="40"/>
+### Ferramentas de Colaboração
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+</div>
 
-- **Sistemas Operacionais:**  
-  <img src="https://devicon-website.vercel.app/api/linux/original.svg" alt="Linux" width="40" height="40"/> &nbsp; 
-  <img src="https://devicon-website.vercel.app/api/windows8/original.svg" alt="Windows" width="40" height="40"/>
+### Ferramentas
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
 
-- **Modelagem de Sistemas:** 
-
-  <img src="https://github.com/user-attachments/assets/de75cbc7-e47f-41bb-9f67-30e9e760a6d2" alt="StarUML" width="40" height="40"/>
+### Sistemas Operacionais
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</div>
 
 ## 🌱 Atualmente estou aprendendo...
 
-<div style="display: inline-block;">
-  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React" width="40" height="40"/>
-  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="40" height="40"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-## Objetivo Profissional
+## 🎯 Objetivo Profissional
 
 Busco oportunidades de estágio e projetos para aprimorar minhas habilidades em desenvolvimento, colaborando com equipes técnicas e me envolvendo em atividades que promovam tecnologias web ou apoiem sistemas de banco de dados.
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diogomasc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

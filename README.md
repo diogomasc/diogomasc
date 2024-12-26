@@ -10,7 +10,7 @@ Olá, sou Diogo! Sou acadêmico de Sistemas de Informação no IFBA e atualmente
 
 [![Gmail Badge](https://img.shields.io/badge/-diogomascarenhas0574@gmail.com-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white&link=mailto:diogomascarenhas0574@gmail.com)](mailto:diogomascarenhas0574@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diogo%20Mascarenhas-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogomasc)](https://www.linkedin.com/in/diogomasc) 
-[![Instagram Badge](https://img.shields.io/badge/-@_dmasc-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dmasc/)](https://www.instagram.com/_dmasc/)
+[![Instagram Badge](https://img.shields.io/badge/-@_dmasc-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dmascc/)](https://www.instagram.com/_dmasc/)
 
 <details open>
   <summary>

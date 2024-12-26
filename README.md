@@ -4,7 +4,7 @@
 
 <section align="left">
     <p>
-Olá, sou Diogo! Sou acadêmico de Sistemas de Informação no IFBA e atualmente sou residente em software na CEPEDI, no Programa ResTIC36, com foco em Desenvolvimento Mobile. Minhas áreas de interesse incluem Arquitetura de Software, Banco de Dados Relacionais, Modelagem de Dados e Análise de Requisitos, além de me dedicar à programação web e aos princípios da Ciência da Computação.
+Olá, sou Diogo! Sou acadêmico de Sistemas de Informação no IFBA e atualmente sou residente em software na CEPEDI, no Programa ResTIC36, na trilha de Desenvolvimento Mobile. Minhas áreas de interesse incluem Arquitetura de Software, Banco de Dados Relacionais, Modelagem de Dados e Análise de Requisitos, além de me dedicar à programação web e aos princípios da Ciência da Computação.
     </p>
 </section>
 

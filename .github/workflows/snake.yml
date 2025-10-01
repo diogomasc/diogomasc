@@ -23,4 +23,6 @@ jobs:
           git config --local user.email "diogomascarenhas0574@gmail.com"
           git add dist/*.svg
           git commit -m "Update GitHub Snake SVG" || echo "No changes"
-          git push https://diogomasc:${{ secrets.PAT }}@github.com/diogomasc/diogomasc.git HEAD:main
+          git remote set-url origin https://diogomasc:${{ secrets.PAT }}@github.com/diogomasc/diogomasc.git
+          git push origin main
+

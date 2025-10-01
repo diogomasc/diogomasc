@@ -19,10 +19,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
       - name: Commit SVGs
         run: |
-          git config --local user.name "diogomasc"
-          git config --local user.email "diogomascarenhas0574@gmail.com"
-          git add dist/*.svg
-          git commit -m "Update GitHub Snake SVG" || echo "No changes"
-          git remote set-url origin https://diogomasc:${{ secrets.PAT }}@github.com/diogomasc/diogomasc.git
-          git push origin main
+            git config --local user.name "diogomasc"
+            git config --local user.email "diogomascarenhas0574@gmail.com"
+            git add dist/*.svg
+            git commit -m "Update GitHub Snake SVG" || echo "No changes"
+            git remote set-url origin https://diogomasc:${{ secrets.PAT }}@github.com/diogomasc/diogomasc.git
+            git push origin main
+
 

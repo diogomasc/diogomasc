@@ -16,9 +16,10 @@
     </p>
 </section>
 
-[![Gmail Badge](https://img.shields.io/badge/-diogomascarenhas0574@gmail.com-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white&link=mailto:diogomascarenhas0574@gmail.com)](mailto:diogomascarenhas0574@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diogo%20Mascarenhas-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogomasc)](https://www.linkedin.com/in/diogomasc) 
-[![Instagram Badge](https://img.shields.io/badge/-@_dmascc-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dmascc/)](https://www.instagram.com/_dmascc/)
+[![Gmail](https://img.shields.io/badge/Gmail-diogomascarenhas0574@gmail.com-D14836?style=flat-square)](mailto:diogomascarenhas0574@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogomasc-blue?style=flat-square)](https://www.linkedin.com/in/diogomasc)
+[![Instagram](https://img.shields.io/badge/Instagram-@_dmascc-E4405F?style=flat-square)](https://www.instagram.com/_dmascc/)
+
 
 <section>
   <h2>Conhecimentos / Knowledge</h2>

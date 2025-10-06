@@ -78,6 +78,8 @@
     <img width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg" alt="JWT" title="JWT"/>
     <!-- Axios -->
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Axios" title="Axios"/>
+      <!-- Next.js -->
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/>
   </div>
 </details>
 

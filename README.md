@@ -1,92 +1,108 @@
-<section align="left">
-    <h3>Sobre mim</h3>
-    <p>
-        Olá, sou Diogo! Acadêmico de Sistemas de Informação no IFBA e atualmente residente em Software na CEPEDI, no Programa ResTIC36. Participei na trilha de Desenvolvimento Mobile na primeira fase (Node.js + React Native) e fui selecionado para a segunda fase, onde atuo em um projeto comercial como desenvolvedor Front-end com React.  
-        <br><br>
-        Minhas áreas de interesse incluem Engenharia de Software, Banco de Dados Relacionais, Modelagem de Dados e Análise de Requisitos, além de programação web full-stack e princípios da Ciência da Computação.
-    </p>
-</section>
-
-<section align="left">
-    <h3>About me</h3>
-    <p>
-        Hi, I'm Diogo! I'm an Information Systems undergraduate at IFBA and currently a Software Resident at CEPEDI, in the ResTIC36 Program. I participated in the Mobile Development track in the first phase (Node.js + React Native) and was selected for the second phase, where I work on a commercial project as a Front-end Developer with React.  
-        <br><br>
-        My areas of interest include Software Engineering, Relational Databases, Data Modeling, and Requirements Analysis, in addition to full-stack web development and core principles of Computer Science.
-    </p>
-</section>
-
-[![Gmail](https://img.shields.io/badge/Gmail-diogomascarenhas0574@gmail.com-D14836?style=flat-square)](mailto:diogomascarenhas0574@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogomasc-blue?style=flat-square)](https://www.linkedin.com/in/diogomasc)
-[![Instagram](https://img.shields.io/badge/Instagram-@_dmascc-E4405F?style=flat-square)](https://www.instagram.com/_dmascc/)
-
+<div align="left">
+  <h1>Olá, eu sou o Diogo! 👋</h1>
+</div>
 
 <section>
-  <h2>Conhecimentos / Knowledge</h2>
+  <h3>😊 Sobre mim</h3>
+  <p align="justify">
+    Acadêmico de <b>Sistemas de Informação no IFBA</b> e Desenvolvedor Full-Stack com 1.5 anos de experiência prática,  no ecossistema <b>JavaScript</b>, construindo aplicações com Node.js/NestJS no backend e React/Next.js no frontend.
+  </p>
+  <p align="justify">
+    Sou entusiasta de <b>Arquitetura Evolutiva e Qualidade de Software</b>. Estudo e aplico conceitos de alta coesão e baixo acoplamento para construir sistemas flexíveis e fáceis de evoluir. Com visão de QA orientado a código, e valorizo a definição de critérios de aceite claros e a automação de testes para garantir a entrega contínua de valor com o mínimo de regressões.
+  </p>
+
+  <h4>🎓 Pesquisa Acadêmica (TCC)</h4>
+  <p align="justify">
+    Minha pesquisa atual e trabalho de conclusão de curso são centrados em <b>Java e Spring Boot</b>, com foco em <b>Observabilidade e Qualidade de Código</b>. Investigo a análise estática e dinâmica na refatoração de domínios complexos, combatendo débitos técnicos como <i>Code Smells</i> e <i>God Classes</i> através da aplicação estratégica de Padrões de Projeto e separação de responsabilidades.
+  </p>
+
+  <p>
+    🚀 <b>Vamos nos conectar?</b> Sinta-se à vontade para me seguir aqui no GitHub para acompanhar meus projetos ou fazer uma conexão no meu LinkedIn para trocarmos experiências!
+  </p>
+</section>
+
+---
+
+### Contato
+<div align="left">
+  <a href="mailto:diogomascarenhas0574@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/diogomasc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_dmascc/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+### Tecnologias e Ferramentas
+
+<details open>
+  <summary><b>Linguagens e Backend</b></summary>
+  <br />
   <div>
-    <!-- C -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/>
-    <!-- Java -->
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/>
-    <!-- Spring Boot -->
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot"/>
-    <!-- PHP -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP"/>
-    <!-- Python -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/>
-    <!-- JavaScript -->
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript"/>
-    <!-- TypeScript -->
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" title="TypeScript"/>
-    <!-- HTML -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML"/>
-    <!-- CSS -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS"/>
-    <!-- React -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/>
-    <!-- Bootstrap -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/>
-    <!-- Node.js -->
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/>
-    <!-- Fastify -->
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS"/>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" title="Fastify"/>
-    <!-- Docker -->
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
-    <!-- PostgreSQL -->
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-    <!-- Prisma -->
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma ORM" title="Prisma ORM"/>
-    <!-- MySQL -->
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
-    <!-- Tailwind -->
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind"/>
-    <!-- Vitest -->
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest"/>
-    <!-- Git -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/>
-    <!-- Figma -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
-    <!-- Linux -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/> 
-    <!-- Postman -->
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman"/>
-    <!-- UML -->
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="UML" title="UML"/>
-    <!-- Express -->
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express"/>
-    <!-- JWT -->
-    <img width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg" alt="JWT" title="JWT"/>
-    <!-- Axios -->
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Axios" title="Axios"/>
-      <!-- Next.js -->
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP"/>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/>
   </div>
 </details>
 
---- 
+<br />
 
-<section>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=diogomasc&theme=dark" width="400px" />
-  </p>
-</section>
+<details open>
+  <summary><b>Frontend e Mobile</b></summary>
+  <br />
+  <div>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind"/>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML"/>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS"/>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
+  </div>
+</details>
+
+<br />
+
+<details open>
+  <summary><b>Banco de Dados e Infra</b></summary>
+  <br />
+  <div>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma ORM" title="Prisma ORM"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+  </div>
+</details>
+
+<br />
+
+<details open>
+  <summary><b>Testes e Qualidade</b></summary>
+  <br />
+  <div>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" title="Jest"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright"/>
+  </div>
+</details>
+
+---
+
+### Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diogomasc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomasc&layout=compact&theme=dark&hide_langs=c,php,python" alt="Linguagens mais usadas" height="180em" />
+</div>

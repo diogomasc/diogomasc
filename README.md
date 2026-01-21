@@ -5,7 +5,7 @@
 <section>
   <h3>😊 Sobre mim</h3>
   <p align="justify">
-    Acadêmico de <b>Sistemas de Informação no IFBA</b> e Desenvolvedor Full-Stack com 1.5 anos de experiência prática,  no ecossistema <b>JavaScript</b>, construindo aplicações com Node.js/NestJS no backend e React/Next.js no frontend.
+    Acadêmico de <b>Sistemas de Informação no IFBA</b> e Desenvolvedor Full-Stack com 1.5 anos de experiência prática,  no ecossistema <b>JavaScript</b>, construindo aplicações com Node.js/NestJS no backend e React/Next.js no frontend. Além de prática em desenvolvimento mobile com <b>React Native</b>.
   </p>
   <p align="justify">
     Sou entusiasta de <b>Arquitetura Evolutiva e Qualidade de Software</b>. Estudo e aplico conceitos de alta coesão e baixo acoplamento para construir sistemas flexíveis e fáceis de evoluir. Com visão de QA orientado a código, e valorizo a definição de critérios de aceite claros e a automação de testes para garantir a entrega contínua de valor com o mínimo de regressões.

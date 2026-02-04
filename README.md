@@ -103,6 +103,6 @@
 
 ### Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diogomasc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomasc&layout=compact&theme=dark&hide_langs=c,php,python" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diogomasc&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomasc&layout=compact&theme=dark&hide=c,php,python" alt="Linguagens mais usadas" height="180em" />
 </div>

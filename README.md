@@ -1,84 +1,63 @@
 # Olá, eu sou o Diogo 👋
 
-Sou estudante de **Sistemas de Informação no IFBA** e Desenvolvedor **Full Stack** com experiência prática em projetos web e mobile. Trabalho principalmente com **JavaScript/TypeScript** (Node.js, React, Next.js, React Native) e tenho me aprofundado em **back-end** e **qualidade de software**.
+Sou estudante de **Sistemas de Informação no IFBA** e Desenvolvedor **Full Stack** com 2 anos de experiência prática. Atualmente, sou **Pesquisador e Desenvolvedor no programa NuFuturo (parceria Nubank/IFBA/UFBA)**, enfrentando desafios de **Ciência de Dados e Deep Learning** aplicados à detecção de fraudes.
 
-Gosto de pensar minha trajetória como a de um profissional em **T**: construí uma base ampla em algoritmos, POO, bancos de dados e engenharia de software, e hoje estou aprofundando o “traço vertical” em back-end, qualidade de código e testes.
-
----
-
-## 📫 Contato
-
-- E-mail: **diogomascarenhas0574@gmail.com**  
-- LinkedIn: [linkedin.com/in/diogomasc](https://www.linkedin.com/in/diogomasc)
-- [Currículo](https://docs.google.com/document/d/e/2PACX-1vTP_WkSvnGwyh0I4vvzAnq3iMIqaMwXieZDj3Bro-SvY-SpGD2DEkUo1jKEsYln28lO4J2ZzfN0Qklr/pub)
+Gosto de pensar minha trajetória como a de um profissional em **T**: construí uma base ampla em Engenharia de Software e QA, e hoje estou expandindo o “traço vertical” para o universo de **Machine Learning e Deep Learning**, unindo o rigor da qualidade de código à complexidade da análise de dados.
 
 ---
 
 ## 🔍 O que mais me interessa hoje
 
-- Back-end com **Node.js/TypeScript** (Fastify, Nest) e **Java/Spring Boot**  
-- **APIs REST**, modelagem de domínio e boas práticas (DDD, SOLID, Design Patterns)  
-- **Qualidade de software e Engenharia de Software**: documentação técnica, processo de software, análise exploratória, pirâmide de testes, testes automatizados, métricas, prevenção e combate a débito técnico  
-- Observabilidade, logging e monitoramento em aplicações de backend  
-- **Objetivo**: atuar como desenvolvedor júnior em desenvolvimento de software Full Stack, Back-end ou QA, contribuindo em análise de requisitos, desenvolvimento, testes e documentação de soluções em software
+- **Inteligência Artificial & Deep Learning**: Pesquisa aplicada com **Python, PyTorch e Graph Neural Networks (GNN)** para detecção de fraudes e suporte à tomada de decisão, além de estatística e álgebra aplicada ao aprendizado de máquina e análise de grafos..
+- **Arquitetura & Desenvolvimento**: Construção de sistemas escaláveis e seguros (JWT/RBAC) utilizando Node.js (NestJS, Fastify) e Java (Spring Boot). Foco em Arquitetura Evolutiva, SOLID e Design Patterns para garantir alta coesão e baixo acoplamento em APIs REST e bancos de dados relacionais (SQL).
+- **Qualidade de Software (QA)**: Automação de testes, prevenção de débito técnico e arquitetura evolutiva.
 
 ---
 
-## 🎓 Pesquisa
+## 🎓 Pesquisa & Projetos Atuais
 
-Atualmente minha pesquisa/TCC é focada em **Java e Spring Boot**, investigando como lidar com **débito técnico** em projetos Java usando **métricas estáticas e dinâmicas** para apoiar decisões de engenharia.  
-Exploro temas como:
+### 1. Detecção de Fraudes (NuFuturo - Nubank/IFBA/UFBA)
+Atuo em ambiente laboratorial desenvolvendo algoritmos para detecção de fraudes em transações financeiras pós-acontecimento. O foco está na implementação de modelos baseados em **Grafos (GNN)** e algoritmos de alta performance para a comunidade externa.
 
-- Code smells e **God Classes**  
-- Refatoração guiada por métricas  
-- Aplicação de padrões de projeto e separação de responsabilidades  
+### 2. TCC: Débito Técnico em Java/Spring Boot
+Investigo como métricas estáticas e dinâmicas podem apoiar decisões de engenharia em projetos Java, explorando refatoração guiada por dados, **God Classes** e padrões de projeto.
 
 ---
 
-## 🛠️ Conhecimento
+## 🛠️ Ferramental Técnico
+
+### Ciência de Dados & Machine Learning
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch" />
+  </a>
+</p>
 
 ### Linguagens & Back-end
-
-Linguagens: JavaScript, TypeScript, Java.  
-Back-end: Node.js, NestJS, Express, Fastify, Spring Boot.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,nodejs,nest,spring" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,nodejs,nest,spring" />
+  </a>
 </p>
 
 ### Front-end & Mobile
-
-Front-end / Mobile: React, Next.js, React Native, HTML, CSS, Bootstrap, Tailwind CSS.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,bootstrap,tailwind" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
+  </a>
 </p>
 
-### Bancos de Dados & Infra
-
-Bancos de Dados: PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, Drizzle ORM, Sequelize, SQLite.  
-DevOps & Ferramentas: Docker, Git/GitHub, pipelines básicas de CI/CD, Linux, Postman.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,githubactions,linux,postman" />
+### Qualidade, Infra & Bancos
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,cypress,postgres,mysql,mongodb,redis,docker,git,linux" />
+  </a>
 </p>
 
-### Arquitetura & Design
+---
 
-Arquitetura & Design: APIs RESTful, DDD, SOLID, Design Patterns, UML, autenticação JWT/RBAC, Figma (prototipação e heurísticas de Nielsen).
+## 📫 Contato
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-### Qualidade & Testes
-
-Qualidade & Testes: Jest, Vitest, Cypress, JUnit, TDD, documentação e análise de testes, testes exploratórios, automação de testes e prevenção de regressões.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress" />
-</p>
-
-### Competências Comportamentais
-
-Competências Comportamentais: comunicação clara, trabalho em equipe multidisciplinar, proatividade, autonomia em ambiente remoto, pensamento crítico, organização, escrita técnica, atenção aos detalhes, aprendizado contínuo.
+- **LinkedIn**: [linkedin.com/in/diogomasc](https://www.linkedin.com/in/diogomasc)
+- **E-mail**: [diogomascarenhas0574@gmail.com](mailto:diogomascarenhas0574@gmail.com)
+- **Currículo**: [Acesse aqui](https://docs.google.com/document/d/e/2PACX-1vTP_WkSvnGwyh0I4vvzAnq3iMIqaMwXieZDj3Bro-SvY-SpGD2DEkUo1jKEsYln28lO4J2ZzfN0Qklr/pub)

@@ -86,5 +86,5 @@ $ git commit -m "refactor: menos dívida técnica, mais código que evolui"
 ```
 
 <p align="right">
-  <img src="assets/cat.gif" width="320" alt="Animação: Gato cinza saltitanto" />
+  <img src="assets/cat.gif" width="420" alt="Animação: Gato laranja deitando" />
 </p>

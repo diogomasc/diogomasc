@@ -1,67 +1,86 @@
-<h1 align="center">👋 Diogo Mascarenhas</h1>
-<p align="center">Software Engineer • Back-End / Full Stack Developer • QA • Deep Learning @ NuFuturo (Nubank/IFBA/UFBA)</p>
+<h1 align="center">Diogo Mascarenhas</h1>
 
-## 📫 Contato
+<p align="center">
+  Desenvolvedor Full Stack Júnior · QA · Pesquisa em Engenharia de Software<br/>
+  <sub>Manutenção e evolução de software · Dívida técnica · Qualidade orientada a métricas</sub>
+</p>
 
-- LinkedIn: [linkedin.com/in/diogomasc](https://www.linkedin.com/in/diogomasc)
-- E-mail: diogomascarenhas0574@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogomasc">LinkedIn</a> ·
+  <a href="mailto:diogomascarenhas0574@gmail.com">E-mail</a> ·
+  <a href="http://lattes.cnpq.br/2102198906146333">Lattes</a>
+</p>
 
 ---
 
-## 🧠 Como penso back-end
+## 🌿 Linhas de pesquisa
 
-Desenvolvo, principalmente, aplicações monolíticas e APIs REST, e me preocupo em entender o ciclo de vida completo da aplicação — não só escrever a rota, mas onde cada responsabilidade deve morar. Isso significa identificar quando uma arquitetura em camadas (MVC) resolve bem o problema e quando vale investir em DDD para isolar regra de negócio complexa.
+```console
+$ git branch --list "research/*"
+* research/manutencao-e-evolucao-de-software
+  research/divida-tecnica
+  research/code-smells-e-analise-estatica
+  research/qualidade-orientada-a-metricas
+```
 
-Segurança e persistência não são um "extra": autenticação com **JWT** e **OAuth**, controle de acesso com **RBAC**, queries bem escritas em bancos relacionais, e cache client-side com **Redis** quando a aplicação exige performance sob carga.
+| Linha | O que me interessa |
+| --- | --- |
+| **Manutenção e evolução de software** | Como o código muda ao longo do tempo e o que mantém um sistema sustentável de evoluir. |
+| **Dívida técnica e degradação de software** | Prevenção e mitigação da dívida técnica estrutural, e a relação entre a estrutura do código e o comportamento dinâmico (desempenho sob carga). |
+| **Code smells e análise estática** | Detecção e mitigação de code smells por análise estática, com foco em código manutenível e evolutivo. |
+| **Qualidade orientada a métricas** | Medição e observação de atributos de qualidade com ISO/IEC 25010 e ISO/IEC/IEEE 15939, além de testes de carga. |
 
-## ✅ Qualidade não é só teste, é medir e observar
+Bacharel em Sistemas de Informação no **IFBA** e discente não-regular do **Mestrado Profissional em Engenharia de Sistemas e Produtos** (IFBA, Salvador).
 
-QA pra mim é hoje minha principal área de interesse, e começa antes do código: pensar critérios de aceite, casos de borda e o que pode quebrar. Depois disso, sim, vem a automação — testes E2E e mobile com **Cypress** e **Maestro**, testes de API com Bruno/Postman — mas o objetivo final é garantir qualidade de forma contínua. Trabalho com base em **ISO/IEC 25010** e **ISO/IEC/IEEE 15939:2017** para pensar atributos de qualidade além de funcionalidade (confiabilidade, manutenibilidade, usabilidade).
+---
 
-## 📱 Front-end pensando em quem usa
+## ✅ Qualidade antes e depois do código
 
-Do lado do front, minha preocupação central é a experiência de quem usa a aplicação: responsividade real, performance de carregamento, e acessibilidade seguindo diretrizes **WCAG** quando o público exige atenção especial a isso.
+QA, para mim, segue o ciclo de vida de testes (STLC), com cada técnica na fase em que entrega mais valor. Nos requisitos, testes **estáticos** (revisão de requisitos, análise estática e code smells) previnem defeitos antes de o código existir. No projeto de testes, uso **partição de equivalência** e **análise de valor limite** para cobrir casos de borda. Na execução, testes **dinâmicos** nos níveis de unidade (Jest, Vitest, JUnit), integração e API (Postman, Bruno) e sistema (Cypress). No fechamento, a **regressão** protege o que já funciona. O estático previne e o dinâmico detecta; os dois se complementam. Também me interessa a diferença entre o papel de desenvolvimento e o de QA, e entre entregas **eficazes** (resolvem o problema certo) e **eficientes** (resolvem com menor custo de tempo e recurso).
 
-## 🔬 Pesquisa em Deep Learning
+<p align="center">
+  <img src="assets/qa-motion.gif" width="720" alt="Animação: um code smell em um teste Cypress é detectado, refatorado e o quality gate passa" />
+</p>
 
-Hoje atuo num desafio e frente novos, expandindo meu horizonte como estudante-desenvolvedor no **programa NuFuturo (Nubank/IFBA/UFBA)**, e na rodada atual pesquiso e aplico algoritmos para detecção de fraudes em transações financeiras com **Python, PyTorch e Graph Neural Networks (GNN)**. É uma frente diferente do meu dia a dia como dev, mas que reforça meu rigor analítico na hora de validar hipóteses e ler resultado — algo que carrego de volta para QA e arquitetura.
+## 🔬 Deep Learning no NuFuturo (Nubank/IFBA)
+
+Pesquiso e implemento modelos de detecção de fraudes em transações financeiras com **Python**, **PyTorch**, **Graph Neural Networks** e **Variational Autoencoders**. A validação de hipóteses e a leitura crítica de resultados voltam para o meu trabalho em QA e em engenharia de software.
+
+---
+
+## 🕒 Trajetória
+
+```console
+$ git log --oneline --graph
+* 4f2a9c1 (HEAD -> main) 2026 NuFuturo (Nubank/IFBA): detecção de fraudes com GNN e VAE
+* 9b7e3d0 2026 Mestrado Profissional (IFBA) como aluno não regular
+* c81a5e7 2026 Bootcamp de QA (Atlântico Avanti), nota 9,7
+* 3d6f0b2 2025 CEPEDI: front-end Next.js/React e QA na plataforma RH de Favela
+* a05c4e8 2024 CEPEDI: full stack com React Native e Node.js
+* 7e19d44 2022 SEDUC-BA: dados do EducaCenso e Sistema Presença, SQL Server
+* 1c0ffee 2021 IFBA: início do Bacharelado em Sistemas de Informação
+```
 
 ---
 
 ## 🛠️ Stack
 
-**Backend:** Node.js · TypeScript · Java · Spring Boot · Express · Fastify · NestJS · OAuth
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,java,spring,nest" />
-</p>
+<details>
+<summary>Lista completa</summary>
 
-**Segurança & Dados:** PostgreSQL · MySQL · MongoDB · Redis · Prisma · Drizzle · JWT · RBAC
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+- **Front-end e mobile:** TypeScript, JavaScript (ES6+), React, Next.js (SSR, SSG), React Native, HTML5, CSS3, Tailwind CSS, React Query, React Hook Form, Zod, Formik, Yup, Axios, Vite, Custom Hooks, WCAG (Princípios POUR), heurísticas de Nielsen, Figma
+- **Back-end e APIs:** Node.js, Express, NestJS, Fastify, Java, Spring Boot, Spring Security, REST APIs, Validação de Contratos, JWT, OAuth, RBAC.
+- **Bancos de dados:** PostgreSQL, MySQL, SQLite, SQL Server, MongoDB, Redis, Prisma, Drizzle ORM, Sequelize
+- **Qualidade e testes:** Cypress (Custom Commands), Postman, Bruno, K6, Swagger UI, Supertest, Jest, Vitest, JUnit,Testes Funcionais, Exploratórios, de Regressão, de Integração, de API e E2E, Critérios de Aceite, Relatório de Bugs, ISO/IEC 25010, ISO/IEC/IEEE 15939, SDLC, STLC
+- **Qualidade de código e manutenção:** Análise estática, Code Smells, Dívida Técnica, Métricas de Qualidade
+- **Práticas de desenvolvimento:** SOLID, Design Patterns, POO, DDD, Arquitetura MVC e em Camadas, UML, TDD, BDD, Scrum, Kanban
+- **Infra e DevOps:** Docker, Git, GitHub, CI/CD
 
-**Front-end & Mobile:** HTML · CSS · JavaScript · React · Next.js · React Native · Tailwind CSS · WCAG
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
+</details>
 
-**QA:** Jest · Vitest · Cypress · JUnit · Maestro · TDD · ISO/IEC 25010
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jest,cypress" />
-</p>
+---
 
-**Infra:** Docker · Git · CI/CD · Linux
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
-</p>
-
-**IA:** Python · PyTorch
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch" />
-</p>
-
-<p align="center">
-  <a href="https://tonybaloney.github.io/vscode-pets/pets/">
-    <img src="https://tonybaloney.github.io/vscode-pets/source/_static/throw-ball-with-mouse.gif" width="400" alt="VS Code Pets" />
-  </a>
-</p>
+```console
+$ git commit -m "refactor: menos dívida técnica, mais código que evolui"
+[main 8a3f1d2] refactor: menos dívida técnica, mais código que evolui
+```

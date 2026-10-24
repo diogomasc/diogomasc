@@ -79,8 +79,12 @@ $ git log --oneline --graph
 </details>
 
 ---
-
+  
 ```console
 $ git commit -m "refactor: menos dívida técnica, mais código que evolui"
 [main 8a3f1d2] refactor: menos dívida técnica, mais código que evolui
 ```
+
+<p align="right">
+  <img src="assets/cat.gif" width="320" alt="Animação: Gato cinza saltitanto" />
+</p>

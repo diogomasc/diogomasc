@@ -44,7 +44,7 @@ QA, para mim, segue o ciclo de vida de testes (STLC), com cada técnica na fase 
 
 ## 🔬 Deep Learning no NuFuturo (Nubank/IFBA)
 
-Pesquiso e implemento modelos de detecção de fraudes em transações financeiras com **Python**, **PyTorch**, **Graph Neural Networks** e **Variational Autoencoders**. A validação de hipóteses e a leitura crítica de resultados voltam para o meu trabalho em QA e em engenharia de software.
+Pesquiso e implemento modelos de detecção de fraudes em transações financeiras com **Python**, **PyTorch**, **Graph Neural Networks** e **Variational Autoencoders**.
 
 ---
 
@@ -54,10 +54,11 @@ Pesquiso e implemento modelos de detecção de fraudes em transações financeir
 $ git log --oneline --graph
 * 4f2a9c1 (HEAD -> main) 2026 NuFuturo (Nubank/IFBA): detecção de fraudes com GNN e VAE
 * 9b7e3d0 2026 Mestrado Profissional (IFBA) como aluno não regular
+* 5e1d2a3 2026 IFBA: conclusão do Bacharelado em Sistemas de Informação
 * c81a5e7 2026 Bootcamp de QA (Atlântico Avanti), nota 9,7
-* 3d6f0b2 2025 CEPEDI: front-end Next.js/React e QA na plataforma RH de Favela
-* a05c4e8 2024 CEPEDI: full stack com React Native e Node.js
-* 7e19d44 2022 SEDUC-BA: dados do EducaCenso e Sistema Presença, SQL Server
+* 3d6f0b2 2025 CEPEDI: front-end developer Next.js/React e QA na plataforma RH de Favela
+* a05c4e8 2024 CEPEDI: mobile developer com React Native e Node.js
+* 7e19d44 2022 SEDUC-BA: manutencao em dados do Sistema SAGRES, EducaCenso e Sistema Presença, SQL Server
 * 1c0ffee 2021 IFBA: início do Bacharelado em Sistemas de Informação
 ```
 
@@ -65,8 +66,9 @@ $ git log --oneline --graph
 
 ## 🛠️ Stack
 
-<details>
-<summary>Lista completa</summary>
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,figma,nodejs,express,nestjs,java,spring,postgres,mysql,mongodb,redis,prisma,rabbitmq,docker,git,github,linux,postman,cypress,jest,vitest,py,pytorch&perline=10" alt="Tecnologias" /> </p>
+
+<details> <summary>Lista completa</summary>
 
 - **Front-end e mobile:** TypeScript, JavaScript (ES6+), React, Next.js (SSR, SSG), React Native, HTML5, CSS3, Tailwind CSS, React Query, React Hook Form, Zod, Formik, Yup, Axios, Vite, Custom Hooks, WCAG (Princípios POUR), heurísticas de Nielsen, Figma
 - **Back-end e APIs:** Node.js, Express, NestJS, Fastify, Java, Spring Boot, Spring Security, REST APIs, Validação de Contratos, JWT, OAuth, RBAC.
@@ -76,15 +78,15 @@ $ git log --oneline --graph
 - **Práticas de desenvolvimento:** SOLID, Design Patterns, POO, DDD, Arquitetura MVC e em Camadas, UML, TDD, BDD, Scrum, Kanban
 - **Infra e DevOps:** Docker, Git, GitHub, CI/CD
 
-</details>
+  </details>
 
 ---
-  
+
 ```console
 $ git commit -m "refactor: menos dívida técnica, mais código que evolui"
 [main 8a3f1d2] refactor: menos dívida técnica, mais código que evolui
 ```
 
 <p align="right">
-  <img src="assets/cat.gif" width="420" alt="Animação: Gato laranja deitando" />
+  <img src="assets/cat.gif" width="320" alt="Animação: Gato laranja deitando" />
 </p>
